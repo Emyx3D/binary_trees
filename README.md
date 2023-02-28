@@ -263,7 +263,7 @@ o   If the tree is a valid AVL tree, returns 1.
 
 o   Otherwise, returns 0.
 
-````31. AVL – Insert```
+```31. AVL – Insert```
 
 o   121-avl_insert.c: C function that inserts a value in an AVL tree.
 
